@@ -1,4 +1,4 @@
-#  AMIRI - AMIRI-MD 👑
+#  AMIRI-MD 👑
 ### AMIRI-MD - Ultimate WhatsApp Bot
 
 **Owner:**  AMIRI
