@@ -10,7 +10,7 @@ AMIRI-𝗠𝗗
 
 ---
 
-<h2 align="center">📊 JAWAD-MD Analytics </h2> 
+<h2 align="center">📊 AMIRI-MD Analytics </h2> 
 
 ---
 
@@ -18,9 +18,9 @@ AMIRI-𝗠𝗗
 
 <img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Profile+Views&color=ff00ff&style=flat-square" />
 <img src="https://img.shields.io/github/stars/JawadYT36/JAWAD-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/forks/JawadYT36/JAWAD-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/JawadYT36/JAWAD-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/JawadYT36/JAWAD-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/forks/JawadYT36/AMIRI-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/JawadYT36/AMIRI-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/JawadYT36/AMIRI-MD?color=ff00ff&style=flat-square" />
 
 </div>
 
@@ -35,7 +35,7 @@ AMIRI-𝗠𝗗
 <p align="center"><strong>Limited Server 👻</strong></p>
 
 <p align="center">
-  <a href="https://jawadtech-vps.onrender.com" target="_blank">
+  <a href="https://amiritech-vps.onrender.com" target="_blank">
     <img 
       src="https://img.shields.io/badge/🚀 Deploy_from_Free_VPS-ffI0XOI?style=for-the-badge&logo=github&logoColor=white" 
       alt="Deploy Button"
@@ -47,7 +47,7 @@ AMIRI-𝗠𝗗
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/jawadmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/JawadTechXD/amiriTechXD/refs/heads/main/amirimd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
@@ -100,7 +100,7 @@ AMIRI-𝗠𝗗
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>JAWAD-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>AMIRI-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
 
 <div align="center">
@@ -129,7 +129,7 @@ AMIRI-𝗠𝗗
 <table align="center">
   <tr>
     <td>
-      <a href="https://jawadtech-vps.onrender.com" target="_blank">
+      <a href="https://amiritech-vps.onrender.com" target="_blank">
         <img alt="Deploy Free On VPS" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
@@ -139,7 +139,7 @@ AMIRI-𝗠𝗗
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JawadTechXD/JAWAD-MD" target="_blank">
+      <a href="https://github.com/AmiriTechXD/JAWAD-MD" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -149,7 +149,7 @@ AMIRI-𝗠𝗗
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JawadTechXD/JAWAD-MD" target="_blank">
+      <a href="https://github.com/AmiriTechXD/JAWAD-MD" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -159,7 +159,7 @@ AMIRI-𝗠𝗗
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JawadTechXD/JAWAD-MD/archive/refs/heads/main.zip" target="_blank">
+      <a href="https://github.com/AmiriTechXD/AMIRI-MD/archive/refs/heads/main.zip" target="_blank">
         <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -171,7 +171,7 @@ AMIRI-𝗠𝗗
 
 ---
 
-## ✨ JAWAD-MD Features
+## ✨ AMIRI-MD Features
 
 - 🤖 WhatsApp Multi-Device Support
 - 🔁 Anti-Delete (Text + Media)
@@ -271,5 +271,5 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 Thanks for using!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/JawadYT36">JawadTechX</a>
+  Made with ❤️ by <a href="https://github.com/AmiriYT36">AmiriTechX</a>
 </p>
